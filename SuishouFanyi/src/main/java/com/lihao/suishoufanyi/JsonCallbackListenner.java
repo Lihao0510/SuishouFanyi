@@ -2,7 +2,9 @@ package com.lihao.suishoufanyi;
 
 public interface JsonCallbackListenner {
 	
-	public void onFinish(String response);
+	void onFinish(String response);
 
-	public void onError(Exception e);
+	void whatTheFuck(String fuck);
+
+	void onError(Exception e);
 }
