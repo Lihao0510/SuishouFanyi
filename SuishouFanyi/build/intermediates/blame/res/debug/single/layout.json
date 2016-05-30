@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\layout\\page_02.xml",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\layout\\page_02.xml"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\layout\\page_01.xml",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\layout\\page_01.xml"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\layout\\page_04.xml",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\layout\\page_04.xml"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\layout\\page_03.xml",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\layout\\page_03.xml"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\layout\\news_layout.xml",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\layout\\news_layout.xml"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\layout\\word_list.xml",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\layout\\word_list.xml"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\layout\\bottom.xml"
+    }
+]

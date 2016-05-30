@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    android:background="#3366ff"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/tab_translate"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/tab_translate_image"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:clickable="false"
+            android:layout_gravity="center"
+            android:background="#3366ff"
+            android:scaleType="fitCenter"
+            android:src="@drawable/translate_selected" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:gravity="center_horizontal"
+            android:text="在线翻译"
+            android:textColor="#ffffff"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tab_note"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/tab_note_image"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:clickable="false"
+            android:layout_gravity="center"
+            android:background="#3366ff"
+            android:scaleType="fitCenter"
+            android:src="@drawable/note_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:gravity="center_horizontal"
+            android:text="单词本"
+            android:textColor="#ffffff"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tab_news"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/tab_news_image"
+            android:layout_width="45dp"
+            android:clickable="false"
+            android:layout_height="45dp"
+            android:layout_gravity="center"
+            android:background="#3366ff"
+            android:scaleType="fitCenter"
+            android:src="@drawable/news_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:gravity="center_horizontal"
+            android:text="网络学习"
+            android:textColor="#ffffff"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tab_joy"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/tab_joy_image"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:clickable="false"
+            android:layout_gravity="center"
+            android:background="#3366ff"
+            android:scaleType="fitCenter"
+            android:src="@drawable/joy_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:gravity="center_horizontal"
+            android:text="娱乐"
+            android:textColor="#ffffff"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

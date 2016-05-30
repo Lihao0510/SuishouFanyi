@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_normal.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\news_normal.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\translate_normal.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\translate_normal.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_selected.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\note_selected.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\joy_normal.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\joy_normal.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\joy_selected.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\joy_selected.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notebook_selected.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\notebook_selected.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\face.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_normal.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\note_normal.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_selected.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\news_selected.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\translate_selected.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\translate_selected.png"
+    },
+    {
+        "merged": "E:\\SuishouFanyi\\SuishouFanyi\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notebook_normal.png",
+        "source": "E:\\SuishouFanyi\\SuishouFanyi\\src\\main\\res\\drawable-hdpi\\notebook_normal.png"
+    }
+]
